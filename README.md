@@ -6,3 +6,6 @@ Experimenting around to find the best backend tech stack for a project.
 * Django
 * Graphene
 * Alchemysql
+
+### Other
+* Using pipenv to manage python dependencies
