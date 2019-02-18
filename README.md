@@ -9,3 +9,6 @@ Experimenting around to find the best backend tech stack for a project.
 
 ### Other
 * Using pipenv to manage python dependencies
+
+### Tutorials used to set this up
+* https://docs.python-guide.org/dev/virtualenvs/
